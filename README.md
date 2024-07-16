@@ -1,1 +1,1 @@
-# SQL-Fifa-World-Cup-2022
+# DBMS Project - FIFA World Cup 2022
